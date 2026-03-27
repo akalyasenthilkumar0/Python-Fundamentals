@@ -93,4 +93,20 @@ for i in range(n-1,0,-1):
 #--------------------------------------- 
 
 
-#8. 
+#8. Number Diamond 
+
+n=5
+for i in range(1,n+1):
+  print(" "*(n-1),end=" ")
+  for j in range(i):
+     print(j,end=" ")
+  print()
+
+for i in range(n-1,0,-1):
+    print(" "*(n-1),end=" ")
+    for j in range(i):
+       print(j,end=" ")
+    print()
+
+#------------------------------------- 
+

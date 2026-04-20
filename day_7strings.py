@@ -7,7 +7,31 @@
 
 #-------------------------------------------
 
-#1.Reversing 
+
+#1.Accessing of strings
+
+#-------------------------------------------
+
+s="GOOD"
+print("Accessing the characters of the string:)
+
+print("Positive Indexing:")
+print("First character:",s[0])
+print("Second character:",s[1])
+print("Third character:",s[2])
+print("Fourth character:",s[3])
+
+print("Negative Indexing:")
+print(Fourth character:",s[-1])
+print(Third character:",s[-2])
+print(Second character:",s[-3])
+print(First character:",s[-4])
+
+#-----------------------------------------
+
+
+
+#2.Reversing using loop 
 
 #-------------------------------------------
 

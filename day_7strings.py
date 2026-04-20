@@ -71,3 +71,52 @@ print("Reverse of the sring:", rev)
 
 #----------------------------------------
 
+
+#6.Palindrome check 
+
+s = "racecar"
+rev = s[::-1]
+if s == rev:
+    print("Palindrome")
+else:
+    print("Not Palindrome")
+
+#----------------------------------------
+
+
+#7.Vowel count 
+
+s = "masterKING"
+count = 0
+for ch in s:
+    if ch in "AEIOUaeiou":
+        count += 1
+print(count)
+
+#---------------------------------------- 
+
+
+#8.Removing duplicates 
+
+s="banana"
+result=""
+for ch in s:
+  if ch not in result : 
+    result+=ch 
+
+print("String after removing duplicates:",result)
+
+#----------------------------------------
+
+
+#9.Anagram
+
+s1="triangle"
+s2="integral"
+if sorted(s1)==sorted(s2):
+  print("Anagram")
+else:
+  print("Not an Anagram")
+
+#----------------------------------------
+

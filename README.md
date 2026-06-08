@@ -1,5 +1,5 @@
-# Python-Basics
-Learning Python from Scratch 
+# Python-Fundamentals
+A Structured collection of python fundamentals, covering core concepts, problem solving, and practical programming exercises built as a part of my learning journey.
 
 ## About This Repository
 This repository is created to document my journey of learning Python from scratch.

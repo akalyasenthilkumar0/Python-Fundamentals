@@ -7,7 +7,7 @@ It contains basic programs, concepts, and practice files added regularly as I le
 Created to strengthen my programming fundamentals and logical thinking.
 
 
-## What I Am Learning
+## Topics Covered 
 - Python fundamentals
 - Variables and data types
 - Conditional statements
@@ -30,8 +30,13 @@ improve logical thinking through consistent hands-on practice.
 - Python
 - GitHub
 
-## Status
-Learning in progress 
+
 
 ## Mini Projects
-- Menu-driven calculator using conditional statements 
+- Menu-driven Calculator 
+- Number Guessing Game 
+- Student Record Manager 
+- To-Do List App
+- Student Grade Calculator 
+- Expense Tracker 
+

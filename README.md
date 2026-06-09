@@ -30,8 +30,6 @@ improve logical thinking through consistent hands-on practice.
 - Python
 - GitHub
 
-
-
 ## Mini Projects
 - Menu-driven Calculator 
 - Number Guessing Game 
